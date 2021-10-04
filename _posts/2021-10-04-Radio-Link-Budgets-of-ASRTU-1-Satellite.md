@@ -1,6 +1,6 @@
 # Radio Link Budgets of ASRTU-1 Satellite
 
-## Command Ulink
+## Command Uplink
 
 |                       | Data   | Unit |
 | --------------------- | ------ | ---- |
