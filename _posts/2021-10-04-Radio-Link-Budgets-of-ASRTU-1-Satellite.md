@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Radio Link Budgets of ASRTU-1 Satellite"
 ---
 
