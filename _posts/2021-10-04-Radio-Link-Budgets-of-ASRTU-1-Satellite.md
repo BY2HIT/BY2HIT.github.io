@@ -1,4 +1,7 @@
-# Radio Link Budgets of ASRTU-1 Satellite
+---
+layout: post
+title:  "Radio Link Budgets of ASRTU-1 Satellite"
+---
 
 ## Command Uplink
 
@@ -6,11 +9,11 @@
 | --------------------- | ------ | ---- |
 | Frequency             | 145.8  | MHz  |
 | Modulation Type       | FSK-FM | -    |
-| Data rate             | 1000   | bps  |
+| Data Rate             | 1000   | bps  |
 | Distance              | 2140   | km   |
 | TX Power              | 10     | dBw  |
 | TX Gain               | 12     | dBi  |
-| Ant Polarization loss | 4.1    | dB   |
+| Ant Polarization Loss | 4.1    | dB   |
 | Path Loss             | 142.3  | dB   |
 | RX Gain               | -6     | dBi  |
 | Noise Figure          | 10     | dB   |
@@ -24,11 +27,11 @@
 | --------------------- | ----- | ---- |
 | Frequency             | 435   | MHz  |
 | Modulation Type       | BPSK  | -    |
-| Data rate             | 9600  | bps  |
+| Data Rate             | 9600  | bps  |
 | Distance              | 2140  | km   |
 | TX Power              | -3    | dBw  |
 | TX Gain               | -6    | dBi  |
-| Ant Polarization loss | 4.1   | dB   |
+| Ant Polarization Loss | 4.1   | dB   |
 | Path Loss             | 151.9 | dB   |
 | RX Gain               | 17.5  | dBi  |
 | Noise Figure          | 2     | dB   |
@@ -46,7 +49,7 @@
 | Modulation Type       | FM     | -    |
 | TX Power              | 10     | dBw  |
 | TX Gain               | 10     | dBi  |
-| Ant Polarization loss | 3      | dB   |
+| Ant Polarization Loss | 3      | dB   |
 | Free Space Loss       | 142.3  | dB   |
 | Other Path Loss       | 1      | dB   |
 | RX Gain               | -6     | dBi  |
@@ -63,7 +66,7 @@
 | Modulation Type       | FM     | -    |
 | TX Power              | -3     | dBw  |
 | TX Gain               | -6     | dBi  |
-| Ant Polarization loss | 3      | dB   |
+| Ant Polarization Loss | 3      | dB   |
 | Free Space Loss       | 151.9  | dB   |
 | Other Path Loss       | 1      | dB   |
 | RX Gain               | 17.5   | dBi  |
@@ -77,11 +80,11 @@
 | ------------------- | ----- | ----- | ---- |
 | Frequency           | 10.5  | 10.5  | GHz  |
 | Modulation Type     | QPSK  | QPSK  | -    |
-| Data rate           | 1     | 10    | Mbps |
+| Data Rate           | 1     | 10    | Mbps |
 | Distance            | 1400  | 1400  | km   |
 | TX Power            | 3     | 3     | dBw  |
 | TX Gain             | 5     | 12    | dBi  |
-| Ant Polar Loss      | 3     | 3     | dB   |
+| Ant Polarization Loss      | 3     | 3     | dB   |
 | Path Loss           | 175.7 | 175.7 | dB   |
 | RX Gain             | 40    | 45    | dBi  |
 | Noise Figure        | 2.0   | 2.0   | dB   |
