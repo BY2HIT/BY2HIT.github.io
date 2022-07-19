@@ -6,7 +6,7 @@ title:  "Radio Link Budgets of ASRTU-1 Satellite"
 
 |                       | Data   | Unit |
 | --------------------- | ------ | ---- |
-| Frequency             | 145.8  | MHz  |
+| Frequency             | 145.875| MHz  |
 | Modulation Type       | FSK-FM | -    |
 | Data Rate             | 1000   | bps  |
 | Distance              | 2140   | km   |
