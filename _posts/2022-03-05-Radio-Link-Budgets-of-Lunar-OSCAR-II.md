@@ -4,12 +4,12 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 
 ## GMSK Downlink
 
-|                       | Reliable Link | Lucky Case | Unit |
+| Item                  | Reliable Link | Lucky Case | Unit |
 | --------------------- | ------------- | ---------- | ---- |
-| Frequency             | 436           | 436        | MHz  |
+| Frequency             | 437           | 437        | MHz  |
 | Distance              | 400000        | 380000     | km   |
 | Modulation Type       | GMSK          | GMSK       | -    |
-| TX Power              | 3             | 3          | dBw  |
+| TX Power              | 3             | 3          | dBW  |
 | TX Gain               | -6            | -1         | dBi  |
 | Ant Polarization Loss | 3             | 1          | dB   |
 | Free Space Loss       | 197.3         | 196.8      | dB   |
@@ -26,36 +26,55 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 
 ## JT4G Downlink
 
-|                       | Reliable Link | Lucky Case | Unit |
+| Item                  | Reliable Link | Lucky Case | Unit |
 | --------------------- | ------------- | ---------- | ---- |
-| Frequency             | 436           | 436        | MHz  |
+| Frequency             | 437           | 437        | MHz  |
 | Distance              | 400000        | 380000     | km   |
 | Modulation Type       | JT4G          | JT4G       | -    |
-| TX Power              | 3             | 3          | dBw  |
+| TX Power              | 3             | 3          | dBW  |
 | TX Gain               | -6            | -1         | dBi  |
 | Ant Polarization Loss | 3             | 1          | dB   |
 | Free Space Loss       | 197.3         | 196.8      | dB   |
 | Other Path Loss       | 1             | 1          | dB   |
 | RX Gain               | 22            | 15         | dBi  |
-| RX Input Level        | -144.3        | -146.8     | dBm  |
+| RX Input Level        | -152.3        | -152.8     | dBm  |
 | System Noise Figure   | 2             | 2          | dB   |
 | Receiver C/N0         | 19.7          | 19.2       | dBHz |
 | C/N0 Threshold        | 17.0          | 17.0       | dBHz |
 | Margin                | 2.7           | 2.2        | dB   |
 
+## Command Uplink
+
+| Item                  | Value    | Unit |
+| --------------------- | -------- | ---- |
+| Frequency             | 437      | MHz  |
+| Distance              | 400000   | km   |
+| Modulation Type       | GMSK     | -    |
+| TX Power              | 23       | dBW  |
+| TX Gain               | 22       | dBi  |
+| Ant Polarization Loss | 3        | dB   |
+| Free Space Loss       | 197.3    | dB   |
+| Other Path Loss       | 1        | dB   |
+| RX Gain               | -6       | dBi  |
+| RX Input Level        | -132.3   | dBm  |
+| Sensitivity           | -140     | dBm  |
+| Margin                |  7.7     | dB   |
+
 ## JT4G Uplink
 
-|                       | Data   | Unit |
-| --------------------- | ------ | ---- |
-| Frequency             | 437    | MHz  |
-| Distance              | 1804   | km   |
-| Modulation Type       | FM     | -    |
-| TX Power              | 7      | dBw  |
-| TX Gain               | 10     | dBi  |
-| Ant Polarization Loss | 3      | dB   |
-| Free Space Loss       | 150.4  | dB   |
-| Other Path Loss       | 1      | dB   |
-| RX Gain               | -6     | dBi  |
-| RX Input Level        | -113.4 | dBm  |
-| Sensitivity           | -121   | dBm  |
-| Margin                |  7.6   | dB   |
+| Item                  | Value         | Unit |
+| --------------------- | ------------- | ---- |
+| Frequency             | 437           | MHz  |
+| Distance              | 400000        | km   |
+| Modulation Type       | JT4G          | -    |
+| TX Power              | 14            | dBW  |
+| TX Gain               | 22            | dBi  |
+| Ant Polarization Loss | 3             | dB   |
+| Free Space Loss       | 197.3         | dB   |
+| Other Path Loss       | 1             | dB   |
+| RX Gain               | -6            | dBi  |
+| RX Input Level        | -141.3        | dBm  |
+| System Noise Figure   | 10            | dB   |
+| Receiver C/N0         | 22.7          | dBHz |
+| C/N0 Threshold        | 17.0          | dBHz |
+| Margin                | 5.7           | dB   |
