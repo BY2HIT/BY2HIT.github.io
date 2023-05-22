@@ -2,7 +2,7 @@
 title:  "Radio Link Budgets of Lunar OSCAR II"
 ---
 
-## GMSK Downlink
+## GMSK Telemetry/Image Downlink
 
 | Item                  | Reliable Link | Lucky Case | Unit |
 | --------------------- | ------------- | ---------- | ---- |
@@ -24,7 +24,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | C/N0 Threshold        | 24.0          | 24.0       | dBHz |
 | Margin                | 3.7           | 1.2        | dB   |
 
-## JT4G Downlink
+## JT4G Digipeater Downlink
 
 | Item                  | Reliable Link | Lucky Case | Unit |
 | --------------------- | ------------- | ---------- | ---- |
@@ -60,7 +60,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | Sensitivity           | -140     | dBm  |
 | Margin                |  7.7     | dB   |
 
-## JT4G Uplink
+## JT4G Digipeater Uplink
 
 | Item                  | Value         | Unit |
 | --------------------- | ------------- | ---- |
