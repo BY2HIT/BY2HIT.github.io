@@ -14,15 +14,15 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | Ant Polarization Loss | 3             | 1          | dB   |
 | Free Space Loss       | 197.3         | 196.8      | dB   |
 | Other Path Loss       | 1             | 1          | dB   |
-| RX Gain               | 30            | 21         | dBi  |
-| RX Input Level        | -144.3        | -146.8     | dBm  |
+| RX Gain               | 30            | 22         | dBi  |
+| RX Input Level        | -144.3        | -145.8     | dBm  |
 | System Noise Figure   | 2             | 2          | dB   |
-| Receiver C/N0         | 27.7          | 25.2       | dBHz |
+| Receiver C/N0         | 27.7          | 26.2       | dBHz |
 | Data Rate             | 125           | 125        | bps  |
 | Required Eb/N0        | 1.0           | 1.0        | dB   |
 | Implementation Loss   | 2             | 2          | dB   |
 | C/N0 Threshold        | 24.0          | 24.0       | dBHz |
-| Margin                | 3.7           | 1.2        | dB   |
+| Margin                | 3.7           | 2.2        | dB   |
 
 ## JT4G Digipeater Downlink
 
