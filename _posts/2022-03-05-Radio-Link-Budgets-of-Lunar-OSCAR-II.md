@@ -2,7 +2,7 @@
 title:  "Radio Link Budgets of Lunar OSCAR II"
 ---
 
-## VHF Uplink
+## GMSK Downlink
 
 |                       | Reliable Case | Lucky Case | Unit |
 | --------------------- | ------ | ------ | ---- |
@@ -19,7 +19,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | Sensitivity           | -121   | -121   | dBm  |
 | Margin                |  14.1  |  14.1  | dB   |
 
-## VHF Downlink
+## JT4G Downlink
 
 |                       | Data  | Unit |
 | --------------------- | ----- | ---- |
@@ -36,7 +36,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | Sensitivity           | -121   | dBm  |
 | Margin                | 17.1   | dB   |
 
-## UHF Uplink
+## JT4G Uplink
 
 |                       | Data   | Unit |
 | --------------------- | ------ | ---- |
@@ -52,21 +52,3 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | RX Input Level        | -113.4 | dBm  |
 | Sensitivity           | -121   | dBm  |
 | Margin                |  7.6   | dB   |
-
-## UHF Downlink
-
-|                       | Data   | Unit |
-| --------------------- | ------ | ---- |
-| Frequency             | 437    | MHz  |
-| Distance              | 1804   | km   |
-| Modulation Type       | FM     | -    |
-| TX Power              | 10     | dBw  |
-| TX Gain               | -6     | dBi  |
-| Ant Polarization Loss | 3      | dB   |
-| Free Space Loss       | 150.4  | dB   |
-| Other Path Loss       | 1      | dB   |
-| RX Gain               | 10     | dBi  |
-| RX Input Level        | -110.4 | dBm  |
-| Sensitivity           | -121   | dBm  |
-| Margin                | 10.6   | dB   |
-
