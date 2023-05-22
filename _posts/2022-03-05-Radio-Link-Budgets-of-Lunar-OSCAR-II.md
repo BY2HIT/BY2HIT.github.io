@@ -49,7 +49,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 | --------------------- | -------- | ---- |
 | Frequency             | 437      | MHz  |
 | Distance              | 400000   | km   |
-| Modulation Type       | GMSK     | -    |
+| Modulation Type       | FSK-DSSS-GMSK | -    |
 | TX Power              | 23       | dBW  |
 | TX Gain               | 22       | dBi  |
 | Ant Polarization Loss | 3        | dB   |
