@@ -4,7 +4,7 @@ title:  "Radio Link Budgets of Lunar OSCAR II"
 
 ## GMSK Downlink
 
-|                       | Reliable Case | Lucky Case | Unit |
+|                       | Reliable Link | Lucky Case | Unit |
 | --------------------- | ------ | ------ | ---- |
 | Frequency             | 145.9  | 145.9  | MHz  |
 | Distance              | 1804   | 1804   | km   |
