@@ -15,7 +15,7 @@ title:  "Radio Link Budgets of VR2Sat"
 | Free Space Loss       | 138.6  | dB   |
 | Other Path Loss       | 1      | dB   |
 | RX Gain               | -6     | dBi  |
-| RX Input Level        | -106.9 | dBm  |
+| RX Input Level        | -106.6 | dBm  |
 | Sensitivity           | -121   | dBm  |
 | Margin                |  14.4  | dB   |
 
@@ -29,10 +29,10 @@ title:  "Radio Link Budgets of VR2Sat"
 | TX Power              | 0      | dBw  |
 | TX Gain               | -6     | dBi  |
 | Ant Polarization Loss | 3      | dB   |
-| Free Space Loss       | 150.4  | dB   |
+| Free Space Loss       | 148.2  | dB   |
 | Other Path Loss       | 1      | dB   |
 | RX Gain               | 10     | dBi  |
-| RX Input Level        | -110.4 | dBm  |
+| RX Input Level        | -118.2 | dBm  |
 | Sensitivity           | -121   | dBm  |
-| Margin                | 2.9    | dB   |
+| Margin                | 2.8    | dB   |
 
