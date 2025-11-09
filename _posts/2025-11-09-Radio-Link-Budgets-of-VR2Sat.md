@@ -2,7 +2,7 @@
 title:  "Radio Link Budgets of VR2Sat"
 ---
 
-VR2Sat is the amateur radio payload of Hong Kong Popular Science Satellite, proposed by Textile Institute American Chamber of Commerce Woo Hon Fai Secondary School Amateur Radio Club (VR2XHF). Planning to be deployed into a 385 km, 41.5 degree inclination orbit in Q3 2026.
+VR2Sat is the amateur radio payload of the Hong Kong Popular Science Satellite, proposed by the Textile Institute American Chamber of Commerce Woo Hon Fai Secondary School Amateur Radio Club (VR2XHF), and is planned to be deployed into a 385 km, 41.5-degree inclination orbit in Q3 2026.
 
 ## VHF Uplink
 
