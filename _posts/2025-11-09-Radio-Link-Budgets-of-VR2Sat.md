@@ -18,8 +18,8 @@ VR2Sat is the amateur radio payload of the Hong Kong Popular Science Satellite, 
 | Other Path Loss       | 1      | dB   |
 | RX Gain               | -6     | dBi  |
 | RX Input Level        | -106.6 | dBm  |
-| Sensitivity           | -121   | dBm  |
-| Margin                |  14.4  | dB   |
+| Sensitivity           | -110   | dBm  |
+| Margin                |  3.4  | dB   |
 
 ## UHF Downlink
 
