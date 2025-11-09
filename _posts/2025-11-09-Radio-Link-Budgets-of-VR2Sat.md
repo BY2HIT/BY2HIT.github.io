@@ -9,7 +9,7 @@ title:  "Radio Link Budgets of VR2Sat"
 | Frequency             | 145.9  | MHz  |
 | Distance              | 1399.3 | km   |
 | Modulation Type       | FM     | -    |
-| TX Power              | 7      | dBw  |
+| TX Power              | 7      | dBW  |
 | TX Gain               | 5      | dBi  |
 | Ant Polarization Loss | 3      | dB   |
 | Free Space Loss       | 138.6  | dB   |
@@ -26,7 +26,7 @@ title:  "Radio Link Budgets of VR2Sat"
 | Frequency             | 437    | MHz  |
 | Distance              | 1399.3 | km   |
 | Modulation Type       | FM     | -    |
-| TX Power              | 0      | dBw  |
+| TX Power              | 0      | dBW  |
 | TX Gain               | -6     | dBi  |
 | Ant Polarization Loss | 3      | dB   |
 | Free Space Loss       | 148.2  | dB   |
